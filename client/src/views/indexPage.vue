@@ -14,10 +14,10 @@
             </div>
         </div>
 
-        <div class="container mx-auto flex flex-col pb-6">
+        <div class="container mx-auto flex flex-col pb-6 px-4 md:px-0">
             <h1 class="text-4xl font-bold text-left text-white pb-4">My Stack and Socials</h1>
             <!-- Stack Details -->
-            <div class="grid grid-cols-2 gap-2">
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-2">
                 <div class="flex flex-col p-5 bg-foreground rounded-md border-accent">
                     <span class="text-2xl text-white">Programming Languages</span>
                     <span class="text-md text-muted">Php, Javascript, SQL</span>
