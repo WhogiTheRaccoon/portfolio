@@ -1,3 +1,5 @@
+export const runtime = 'edge';
+
 import Header from '@/components/Header';
 import { Icon } from '@iconify/react';
 import { fetchOne } from "@/lib/posts";
