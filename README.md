@@ -13,5 +13,3 @@ A modern, responsive portfolio website showcasing my professional experience, pr
 ### Tools
 - [Iconify](https://iconify.design/)
 - [Turbopack](https://turbo.build/)
-
-## 📁 Project Structure
