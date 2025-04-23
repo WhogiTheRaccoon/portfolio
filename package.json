@@ -9,7 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@cloudflare/next-on-pages": "^1.13.12",
     "@iconify/react": "^5.2.1",
     "@tailwindcss/typography": "^0.5.16",
     "gray-matter": "^4.0.3",
