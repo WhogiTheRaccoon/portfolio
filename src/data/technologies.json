@@ -1,0 +1,93 @@
+{
+    "backend": [
+        {
+            "name": "Typescript",
+            "color": "#007ACC",
+            "image": "devicon:typescript"
+        },
+        {
+            "name": "NextJs",
+            "color": "#000000",
+            "image": "devicon:nextjs"
+        },
+        {
+            "name": "Node",
+            "color": "#55A345",
+            "image": "devicon:nodejs"
+        },
+        {
+            "name": "PHP",
+            "color": "#777BB3",
+            "image": "devicon:php"
+        },
+        {
+            "name": "Laravel",
+            "color": "#F0513F",
+            "image": "devicon:laravel"
+        },
+        {
+            "name": "Express",
+            "color": "#000000",
+            "image": "devicon:express"
+        }
+    ],
+    "frontend": [
+        {
+            "name": "React",
+            "color": "#007ACC",
+            "image": "devicon:react"
+        },
+        {
+            "name": "Vue",
+            "color": "#4FC08D",
+            "image": "devicon:vuejs"
+        },
+        {
+            "name": "Typescript",
+            "color": "#007ACC",
+            "image": "devicon:typescript"
+        },
+        {
+            "name": "EJS",
+            "color": "#90A93A",
+            "image": "vscode-icons:file-type-ejs"
+        },
+        {
+            "name": "Tailwind CSS",
+            "color": "#06B6D4",
+            "image": "devicon:tailwindcss"
+        },
+        {
+            "name": "Bootstrap",
+            "color": "#7912F8",
+            "image": "devicon:bootstrap"
+        }
+    ],
+    "tools": [
+        {
+            "name": "Vs Code",
+            "color": "#007ACC",
+            "image": "devicon:vscode"
+        },
+        {
+            "name": "Github",
+            "color": "#FFFFFF",
+            "image": "mdi:github"
+        },
+        {
+            "name": "Docker",
+            "color": "#2496ED",
+            "image": "devicon:docker"
+        },
+        {
+            "name": "Proxmox",
+            "color": "#E57000",
+            "image": "devicon:proxmox-wordmark"
+        },
+        {
+            "name": "Insomnia",
+            "color": "#5D00D2",
+            "image": "devicon:insomnia"
+        }
+    ]
+}

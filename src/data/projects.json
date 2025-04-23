@@ -1,0 +1,89 @@
+[
+    {
+        "name": "Luca Hosting Template",
+        "link": "https://github.com/WhogiTheRaccoon/LucaHostingTemplate",
+        "color": "#0FBA6C",
+        "date": "April 2025 - April 2025",
+        "description": "LucaHostingTemplate is a clean and game focused starting point for building a hosting provider website. It's designed to be simple, responsive, and SEO-optimized, so you can quickly launch a professional hosting site.",
+        "pills": ["HTML/CSS", "React (Next.js)", "Tailwind CSS", "TypeScript"],
+        "images": [
+            {
+                "src": "https://cdn.chit.sh/chrome_n_S_Dezh_N_Fzh-6ovMMKX4tWreXdrSEz4huych.png",
+                "alt": "Luca Index"
+            },
+            {
+                "src": "https://cdn.chit.sh/chrome_Gg_V9_JF_Al3c-uSgtHhQ8dkgn6VuJFJ57hcWS.jpg",
+                "alt": "Luca Games"
+            },
+            {
+                "src": "https://cdn.chit.sh/chrome_i_Q5_NM_7rv_RA-vRxCGoIHUy5KSBOhi5CyuvI2.png",
+                "alt": "Luca Web"
+            }
+        ]
+    },
+    {
+        "name": "ChitShtools",
+        "link": "https://github.com/WhogiTheRaccoon/ChitShTools",
+        "color": "#FA4033",
+        "date": "July 2024 - Oct 2024",
+        "description": "ChitShTools is your go-to hub for a diverse collection of practical tools and scripts designed to simplify everyday tasks. Frustrated by the need to search for and utilize multiple websites for various utilities, I created ChitShTools to provide a comprehensive solution.",
+        "pills": ["HTML/CSS", "VueJs", "Express (NodeJs)", "Tailwind CSS", "TypeScript", "Sequelize"],
+        "images": [
+            {
+                "src": "https://cdn.chit.sh/1RQRsUi4JYtBTPCySWMq40uR.png",
+                "alt": "ChitSh Index"
+            },
+            {
+                "src": "https://cdn.chit.sh/U8WQcSe8Gayewtod1BuhQ5ta.png",
+                "alt": "ChitSh SMTP"
+            },
+            {
+                "src": "https://cdn.chit.sh/chrome_xgcj1_PD_0_RT-bmGLNRznauozkAuR6ngjEBRc.png",
+                "alt": "ChitSh Gmod"
+            }
+        ]
+    },
+    {
+        "name": "GuildGuard",
+        "color": "#B1CD31",
+        "date": "Dec 2024 - Ongoing",
+        "description": " GuildSense employs advanced sentiment analysis to monitor and evaluate user messages in real time. By assigning sentiment scores to message content, it facilitates automated moderation actions, ensuring a positive and respectful community.",
+        "pills": ["HTML/CSS", "VueJs", "Express (NodeJs)", "Tailwind CSS", "TypeScript", "DrizzleORM"],
+        "images": [
+            {
+                "src": "https://cdn.chit.sh/chrome_ASXGH_81_U3y-1SyQv7q8HdqdIqy34jyMU7ob.png",
+                "alt": "GuildGuard Index"
+            },
+            {
+                "src": "https://cdn.chit.sh/chrome_JQLWV_Chm_Vh-0JVqEm43xJMN3qIUuiEhNPGR.png",
+                "alt": "GuildGuard Messages"
+            },
+            {
+                "src": "https://cdn.chit.sh/chrome_uifu7w_CJ_Bl-AtRwYvCpLf0xhu7R13P90fIY.png",
+                "alt": "GuildGuard Weights"
+            }
+        ]
+    },
+    {
+        "name": "Bru Hosting Template",
+        "link": "https://github.com/WhogiTheRaccoon/BruHostingTemplate",
+        "color": "#6345f1",
+        "date": "April 2025",
+        "description": "BruHostingTemplate is a clean and professional starting point for building a hosting provider website. It’s designed to be simple, responsive, and SEO-optimized, so you can quickly launch a professional hosting site.",
+        "pills": ["HTML/CSS", "React (Next.js)", "Tailwind CSS", "TypeScript"],
+        "images": [
+            {
+                "src": "https://cdn.chit.sh/chrome_5_Xvcjj_Kg_NT-v2IYKYwodbesQAILOr5MSwQb.png",
+                "alt": "Bru Index"
+            },
+            {
+                "src": "https://cdn.chit.sh/chrome_Wf_Oe_E_Gj_N0_E-iAwUMXg2mrozkyhGBX1ejhAa.png",
+                "alt": "Bru Games"
+            },
+            {
+                "src": "https://cdn.chit.sh/chrome_Hi_Xum4i_Des-X9i1WIVtpTplR6pu4lQ7RmYJ.jpg",
+                "alt": "Bru Web"
+            }
+        ]
+    }
+]

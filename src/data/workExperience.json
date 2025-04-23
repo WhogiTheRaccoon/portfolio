@@ -1,0 +1,25 @@
+[
+    {
+        "company": "Sanoservers",
+        "position": "Chief Operating Officer",
+        "link": "https://sanoservers.com",
+        "date": "Feb 2025 - Present",
+        "color": "#0FBA6C",
+        "description": "I oversee daily operations while also contributing on the technical side by developing a custom website, bots, and unique features for our in-house hosting panel. My role bridges management and development to ensure smooth, innovative service delivery."
+    },
+    {
+        "company": "Cloudnoden",
+        "position": "System Administrator",
+        "link": "https://cloudnoden.net",
+        "date": "Nov 2023 - Jan 2024",
+        "color": "#FF5733",
+        "description": "I played a pivotal role in the upkeep and management of servers and networking infrastructure, overseeing a range of critical systems including Pterodactyl, WHMCS, Virtfusion, Proxmox, PBS, and other essential components."
+    },
+    {
+        "company": "FroHost",
+        "position": "Chief Technology Officer",
+        "date": "Dec 2018 - Feb 2020",
+        "color": "#32B3F0",
+        "description": "I oversaw the Support Team and spearheaded the development of several systems to enhance user experience. This included creating a comprehensive Pterodactyl theme and implementing a custom ticketing system."
+    }
+]
