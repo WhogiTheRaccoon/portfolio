@@ -8,15 +8,15 @@
         "pills": ["HTML/CSS", "React (Next.js)", "Tailwind CSS", "TypeScript"],
         "images": [
             {
-                "src": "https://cdn.chit.sh/chrome_n_S_Dezh_N_Fzh-6ovMMKX4tWreXdrSEz4huych.png",
+                "src": "/images/projects/luca/index.png",
                 "alt": "Luca Index"
             },
             {
-                "src": "https://cdn.chit.sh/chrome_Gg_V9_JF_Al3c-uSgtHhQ8dkgn6VuJFJ57hcWS.jpg",
+                "src": "/images/projects/luca/games.png",
                 "alt": "Luca Games"
             },
             {
-                "src": "https://cdn.chit.sh/chrome_i_Q5_NM_7rv_RA-vRxCGoIHUy5KSBOhi5CyuvI2.png",
+                "src": "/images/projects/luca/web.png",
                 "alt": "Luca Web"
             }
         ]
@@ -30,15 +30,15 @@
         "pills": ["HTML/CSS", "VueJs", "Express (NodeJs)", "Tailwind CSS", "TypeScript", "Sequelize"],
         "images": [
             {
-                "src": "https://cdn.chit.sh/1RQRsUi4JYtBTPCySWMq40uR.png",
+                "src": "/images/projects/chitShTools/index.png",
                 "alt": "ChitSh Index"
             },
             {
-                "src": "https://cdn.chit.sh/U8WQcSe8Gayewtod1BuhQ5ta.png",
+                "src": "/images/projects/chitShTools/smtp.png",
                 "alt": "ChitSh SMTP"
             },
             {
-                "src": "https://cdn.chit.sh/chrome_xgcj1_PD_0_RT-bmGLNRznauozkAuR6ngjEBRc.png",
+                "src": "/images/projects/chitShTools/gmod.png",
                 "alt": "ChitSh Gmod"
             }
         ]
@@ -51,15 +51,15 @@
         "pills": ["HTML/CSS", "VueJs", "Express (NodeJs)", "Tailwind CSS", "TypeScript", "DrizzleORM"],
         "images": [
             {
-                "src": "https://cdn.chit.sh/chrome_ASXGH_81_U3y-1SyQv7q8HdqdIqy34jyMU7ob.png",
+                "src": "/images/projects/guildGuard/index.png",
                 "alt": "GuildGuard Index"
             },
             {
-                "src": "https://cdn.chit.sh/chrome_JQLWV_Chm_Vh-0JVqEm43xJMN3qIUuiEhNPGR.png",
+                "src": "/images/projects/guildGuard/messages.png",
                 "alt": "GuildGuard Messages"
             },
             {
-                "src": "https://cdn.chit.sh/chrome_uifu7w_CJ_Bl-AtRwYvCpLf0xhu7R13P90fIY.png",
+                "src": "/images/projects/guildGuard/weights.png",
                 "alt": "GuildGuard Weights"
             }
         ]
@@ -73,16 +73,16 @@
         "pills": ["HTML/CSS", "React (Next.js)", "Tailwind CSS", "TypeScript"],
         "images": [
             {
-                "src": "https://cdn.chit.sh/chrome_5_Xvcjj_Kg_NT-v2IYKYwodbesQAILOr5MSwQb.png",
+                "src": "/images/projects/bru/index.png",
                 "alt": "Bru Index"
             },
             {
-                "src": "https://cdn.chit.sh/chrome_Wf_Oe_E_Gj_N0_E-iAwUMXg2mrozkyhGBX1ejhAa.png",
-                "alt": "Bru Games"
+                "src": "/images/projects/bru/vps.png",
+                "alt": "Bru Vps"
             },
             {
-                "src": "https://cdn.chit.sh/chrome_Hi_Xum4i_Des-X9i1WIVtpTplR6pu4lQ7RmYJ.jpg",
-                "alt": "Bru Web"
+                "src": "/images/projects/bru/game.png",
+                "alt": "Bru Game"
             }
         ]
     }

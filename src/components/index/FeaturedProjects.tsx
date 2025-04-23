@@ -5,6 +5,7 @@ import Badge from "@/components/ui/Badge"
 import Button from "@/components/ui/Button";
 import projects from "@/data/projects.json"
 import { Icon } from "@iconify/react";
+import Image from "next/image";
 
 export default function FeaturedProjects() {
     const [showAll, setShowAll] = useState(false);
@@ -50,7 +51,7 @@ export default function FeaturedProjects() {
                         <div className="hidden md:grid grid-cols-3 gap-2 mx-auto w-2/3">
                             {project.images.map((image, idx) => (
                                 <div key={image.src} onClick={() => openModal(project.images, idx)} className="aspect-[4/3] w-full rounded-md overflow-hidden cursor-pointer hover:opacity-90 transition-opacity anim-up">
-                                    <img src={image.src} alt={image.alt} className="w-full h-full object-cover" />
+                                    <Image src={image.src} alt={image.alt} width={1920} height={1080} className="w-full h-full object-cover" />
                                 </div>
                             ))}
                         </div>
@@ -70,7 +71,7 @@ export default function FeaturedProjects() {
                         <div className="relative w-full px-4">
                             <div className="flex items-center justify-between">
                             <button onClick={prevImage} className="text-white text-4xl px-4 hover:text-accent cursor-pointer"><Icon icon="weui:arrow-outlined" className="rotate-180" /></button>
-                            <img src={modalState.images[modalState.index]?.src} alt={modalState.images[modalState.index]?.alt} className="max-h-[80vh] mx-auto rounded-lg object-contain"/>
+                            <Image src={modalState.images[modalState.index]?.src} alt={modalState.images[modalState.index]?.alt} width={1920} height={1080} className="max-h-[80vh] mx-auto rounded-lg object-contain"/>
                             <button onClick={nextImage} className="text-white text-4xl px-4 hover:text-accent cursor-pointer"><Icon icon="weui:arrow-outlined" /></button>
                             </div>
                         </div>
