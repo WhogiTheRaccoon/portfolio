@@ -1,6 +1,7 @@
 import Header from '@/components/Header';
 import { Icon } from '@iconify/react';
 import { fetchAllPosts } from "@/lib/posts";
+import Link from 'next/link';
 
 export default function Home() {
     const posts = fetchAllPosts();
@@ -25,7 +26,7 @@ export default function Home() {
                     )}
 
                     {posts.map((post) => (
-                        <a href={`/blog/${post.id}`} key={post.id} className="bg-foreground rounded-lg p-4 mb-4 anim-up">
+                        <Link href={`/blog/${post.id}`} key={post.id} className="bg-foreground rounded-lg p-4 mb-4 anim-up">
                             <h2 className="text-white text-2xl font-bold">{post.title}</h2>
                             <p className="text-muted">{post.description}</p>
                             <div className="flex flex-row flex-wrap gap-3 md:gap-6 text-muted pt-2">
@@ -33,7 +34,7 @@ export default function Home() {
                                 <span className="flex items-center gap-2"><Icon icon="mdi:clock-outline" /> {post.ttr} Minute Read</span>
                                 <span className="flex items-center gap-2"><Icon icon="mdi:person" /> {post.author}</span>
                             </div>
-                        </a>
+                        </Link>
                     ))}
                 </div>
             </div>
