@@ -16,7 +16,7 @@ export default function WorkExperience() {
                                 <h1 className="text-2xl">{experience.position}</h1>
                                 { experience.link && <a href={experience.link} className="bg-background text-white hover:text-accent/75 hover:cursor-pointer px-2 py-1 text-sm w-fit mt-2 md:mt-0">Visit Website</a> }
                             </div>
-                            <h2 className="text-xl text-muted">{experience.company} [{experience.date}]</h2>
+                            <h2 className="text-xl text-muted">{experience.company} <span className="text-sm">{experience.date}</span></h2>
                             <p className="text-muted">{experience.description}</p>
                         </div>
                     </Card>
