@@ -12,7 +12,7 @@ export default function Header() {
                 {available ? 'Available For Work' : 'Not Available For Work'}
             </div>
             <h1 className="text-6xl font-bold">My name's Whogi.</h1>
-            <h2 className="text-xl pt-2 text-muted">I'm a first-year computer science student and freelance web developer with a passion for coding,<br/> system administration, and raccoons. I love building clean, functional web experiences and constantly learning new<br/> things along the way.</h2>
+            <h2 className="text-xl pt-2 text-muted">I'm a second-year computer science student and freelance web developer with a passion for coding,<br/> system administration, and raccoons. I love building clean, functional web experiences and constantly learning new<br/> things along the way.</h2>
         
             {/* Social media */}
             <div className="flex flex-col md:flex-row place-content-evenly w-full md:w-1/2 pt-5 space-y-3 md:space-y-0 items-center">
@@ -23,7 +23,7 @@ export default function Header() {
 
                 <div className="text-2xl space-x-2 flex items-center">
                     <Icon icon="bxl:github" className="size-9" />
-                    <a href="https://github.com/WhogiTheRaccoon" className="hover:text-accent">Whogivsachit</a>
+                    <a href="https://github.com/WhogiTheRaccoon" className="hover:text-accent">WhogiTheRaccoon</a>
                 </div>
                 <div className="text-2xl space-x-2 flex items-center">
                     <Icon icon="ic:baseline-email" className="size-9" />

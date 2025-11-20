@@ -1,11 +1,11 @@
 [
     {
-        "company": "Sanoservers",
-        "position": "Chief Operating Officer",
-        "link": "https://sanoservers.com",
-        "date": "Feb 2025 - Present",
+        "company": "AdvinServers",
+        "position": "Technical Support Engineer",
+        "link": "https://advinservers.com",
+        "date": "Oct 2025 - Present",
         "color": "#0FBA6C",
-        "description": "I oversee daily operations while also contributing on the technical side by developing a custom website, bots, and unique features for our in-house hosting panel. My role bridges management and development to ensure smooth, innovative service delivery."
+        "description": "I provide technical support and backend operations for the company, managing a wide range of responsibilities from handling sales, support, and abuse tickets to performing system administration tasks such as live migrations, upgrades, IP assignments, ISO mounting, and system reinstallations. Beyond day‑to‑day support, I contribute to projects like software installation, documentation, and other specialized assignments."
     },
     {
         "company": "Cloudnoden",

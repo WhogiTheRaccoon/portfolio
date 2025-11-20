@@ -1,5 +1,27 @@
 [
     {
+        "name": "AllTheJars",
+        "link": "https://github.com/WhogiTheRaccoon/AllTheJars",
+        "color": "#18982B",
+        "date": "November 2025",
+        "description": "AllTheJars is your ultimate hub for Minecraft downloads, offering direct access to every official and modded Minecraft jar. Designed for both server owners and players, AllTheJars ensures authenticity, reliability, and convenience by providing files directly from their original sources, we never host files ourselves.",
+        "pills": ["HTML/CSS", "React (Next.js)", "Tailwind CSS", "TypeScript", "DrizzleORM"],
+        "images": [
+            {
+                "src": "/images/projects/atj/index.png",
+                "alt": "Atj Index"
+            },
+            {
+                "src": "/images/projects/atj/apidoc.png",
+                "alt": "Atj API Docs"
+            },
+            {
+                "src": "/images/projects/atj/api.png",
+                "alt": "ATJ API"
+            }
+        ]
+    },
+    {
         "name": "Luca Hosting Template",
         "link": "https://github.com/WhogiTheRaccoon/LucaHostingTemplate",
         "color": "#0FBA6C",

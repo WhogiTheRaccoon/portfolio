@@ -34,9 +34,11 @@ export const metadata = {
 export default function RootLayout({children}: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="en" className="theme-default">
-      <body className="bg-background min-h-screen">
+      <body className="bg-background min-h-screen flex flex-col">
         <Navbar />
-        {children}
+        <main className="flex-1">
+          {children}
+        </main>
         <Footer />
       </body>
     </html>
